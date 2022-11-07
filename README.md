@@ -8,5 +8,4 @@
 <img align="right" alt="TalonAIO" width="200px" src="https://i.imgur.com/lbPFaGM.png">
 
 ## Feel free to reach out to me:
-- Email: **tjallred02@gmail.com**
 - Discord: **Dalphan#1738**
