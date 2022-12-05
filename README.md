@@ -8,4 +8,4 @@
 <img align="right" alt="DalphanAIO" width="200px" src="https://i.imgur.com/qGraEzi.png">
 
 ## Feel free to reach out to me:
-- Discord: **Dalphan#1738**
+- Discord: **dalphan#1738**
