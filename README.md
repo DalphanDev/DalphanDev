@@ -5,7 +5,7 @@
 - Built in electron using TypeScript and Go, designed to bypass different cybersecurities with efficiency in mind.
 - Unique user data tracking utilizing Supabase and multiple instances with a websocket cloud server allowing for data bridging between a user's instances.
 - AYCD integration for automated captcha solving.
-### Screenshots
+### Screenshots/Videos
 ![Dashboard](https://i.imgur.com/Ecq1Uii.png)
 [Link to DalphanAIO in action](https://www.linkedin.com/posts/thomas-allred-33767923a_automated-shopify-checkout-flow-with-user-activity-7122308708159606784-JRiI?utm_source=share&utm_medium=member_desktop)
 
