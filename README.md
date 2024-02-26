@@ -17,6 +17,7 @@
 - Reverse engineered JA3 fingerprints utilizing Wireshark and Fiddler.
 
 ## Akamai API
+[Link to Akamai Sensor Repo](https://github.com/DalphanDev/akamai-sensor)
 - An api used to spoof Akamai fingerprint sensor's authenticating requests on Akamai protected websites.
 - Conducted a comprehensive reverse-engineering project to decode Akamai's fingerprint sensor technology, aiming to deeply understand its mechanisms and security features.
 - Reverse engineered fingerprint generation using Chrome's built in debugger tool.
