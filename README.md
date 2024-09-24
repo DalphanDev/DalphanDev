@@ -28,8 +28,7 @@
 - Using image recognition machine learning, designed and created an API for solving captchas.
 - Used puppeteer to take in the model responses and perform actions on the window.
 ### Video
-[Captcha AI Video](https://www.linkedin.com/posts/thomas-allred-33767923a_ai-automated-hcaptcha-solving-activity-7122307101917360129-W-b_?utm_source=share&utm_medium=member_desktop)
-
+[Captcha AI Video](https://www.linkedin.com/posts/thomas-allred-dev_ai-automated-hcaptcha-solving-activity-7122307101917360129-Pg9T?utm_source=share&utm_medium=member_desktop)
 ## AI Image Classification
 - Also using image recog machine learning, designed and created an API for classifying images.
 ### Screenshot
