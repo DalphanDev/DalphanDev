@@ -9,7 +9,7 @@
 [Link to DalphanAIO Repo](https://github.com/DalphanDev/DalphanAIO-Showcase)
 ### Screenshots/Videos
 ![Dashboard](https://i.imgur.com/Ecq1Uii.png)
-[Link to DalphanAIO in action](https://www.linkedin.com/posts/thomas-allred-33767923a_automated-shopify-checkout-flow-with-user-activity-7122308708159606784-JRiI?utm_source=share&utm_medium=member_desktop)
+[Link to DalphanAIO in action](https://www.linkedin.com/posts/thomas-allred-dev_automated-shopify-checkout-flow-with-user-activity-7122308708159606784-VTQf?utm_source=share&utm_medium=member_desktop)
 
 ## Turbo
 [Link to Turbo Repo](https://github.com/DalphanDev/Turbo)
