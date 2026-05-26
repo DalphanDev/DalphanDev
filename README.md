@@ -1,1 +1,1 @@
-# lord im goated
+# i am not a king, i am not a god, i am worse
